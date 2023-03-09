@@ -61,22 +61,6 @@ body {
     border-radius: 18px 18px 0 0;
 }
 
-.project-sixteen {
-    background-image: url(../img/16.jpg);
-}
-
-.project-seventeen {
-    background-image: url(../img/17.jpg);
-}
-
-.project-eighteen {
-    background-image: url(../img/18.jpg);
-}
-
-.project-nineteen {
-    background-image: url(../img/19.jpg);
-}
-
 .project-one {
     background-image: url(../img/1.jpg);
 }
@@ -135,6 +119,26 @@ body {
 
 .project-fifteen {
     background-image: url(../img/15.jpg);
+}
+
+.project-sixteen {
+    background-image: url(../img/16.jpg);
+}
+
+.project-seventeen {
+    background-image: url(../img/17.jpg);
+}
+
+.project-eighteen {
+    background-image: url(../img/18.jpg);
+}
+
+.project-nineteen {
+    background-image: url(../img/19.jpg);
+}
+
+.project-twenty {
+    background-image: url(../img/20.jpg);
 }
 
 .card-text {
